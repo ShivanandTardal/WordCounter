@@ -1,2 +1,3 @@
 # WordCounter
-Creating website by using standard HTML/CSS and JavaScript practices.
+As a developer, I have experience in designing and implementing word
+counter functionality for Website.
